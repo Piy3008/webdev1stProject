@@ -1,0 +1,60 @@
+.mainContainer{
+    background-color: rgb(96,69,35);
+}
+
+.mainHeading{
+    text-align: center;
+    font-size: x-large;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 3em;
+}
+
+.image{
+   text-align: center;
+ margin-top: 50px;
+ margin-bottom: 50px;
+ padding-bottom: 50px;
+ padding-top: 50px;
+ display: block;
+
+}
+ 
+.image img{
+    width: 600px;
+    height: 600px;
+}
+ 
+.ingredients{
+    font-size: 5em; 
+    border-bottom: 5px solid black; 
+    padding-bottom: 20px; 
+    color: black;
+    text-align:left ;
+ 
+}
+
+.unorderList{
+    font-size: 3em;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: white;
+
+}
+
+.instructions{
+    font-size: 5em; 
+    border-bottom: 5px solid black; 
+    padding-bottom: 20px; 
+   padding-top: 20px;
+    color: black;
+    text-align:left ; 
+}
+
+.orderList{
+    font-size: 3em;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom:100px ;
+    color:white;
+}
